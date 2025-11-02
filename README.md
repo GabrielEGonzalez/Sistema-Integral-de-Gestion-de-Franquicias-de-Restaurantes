@@ -1,4 +1,4 @@
-Perfecto 🔥 Aquí tienes una **versión profesional y resumida** del README para tu repositorio en GitHub, manteniendo solo **la información relevante para presentación y comprensión del proyecto**, sin etapas internas de desarrollo:
+
 
 ---
 
