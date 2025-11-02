@@ -123,7 +123,7 @@ Centralizar la gestión operativa de múltiples sucursales de una red de restaur
 * **Diseño adaptable** para escritorio y móvil.
 
 ---
-                                                                                             Gabriel E. González
+                                                                            Gabriel E. González
 **Tecnologías:** PHP | BotMan | MySQL | Bootstrap
 
 ---
